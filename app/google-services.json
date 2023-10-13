@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523623803424",
+    "project_id": "wastuxam-ca56e",
+    "storage_bucket": "wastuxam-ca56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523623803424:android:0c1bd1a20fbe166cb5aa45",
+        "android_client_info": {
+          "package_name": "com.example.wastuxam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523623803424-qme9eor9o61ine7jpbv2iqbo3dd9g96n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wastuxam",
+            "certificate_hash": "4b8d1fba68f2f6a9087e55d9ff4b4337928dec70"
+          }
+        },
+        {
+          "client_id": "523623803424-10oosnj29th582ppmbo4vrle28khn02u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkOPA2dTy7Mgz73DnyN_eIes1j00ZPqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523623803424-10oosnj29th582ppmbo4vrle28khn02u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
